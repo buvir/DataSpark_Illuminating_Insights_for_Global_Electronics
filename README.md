@@ -88,8 +88,7 @@ Supports store expansion planning and resource allocation to improve underperfor
 ### Sales Analysis
 **Filename:** `Sales_Analysis_DI.png`  
 ![Sales Analysis](./Screenshots/Sales_Analysis_DI.png)
-![Sales Analysis](Screenshots/Sales_Analysis_DI.png)
-![Sales Analysis](/Screenshots/Sales_Analysis_DI.png)
+
 
 
 Analytical breakdown of overall sales performance:
