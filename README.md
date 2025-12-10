@@ -1,8 +1,5 @@
 # DataSpark: Illuminating Insights for Global Electronics
 
-![Project Banner]()  
-
-
 ## 📌 Project Overview
 This project conducts **Exploratory Data Analysis (EDA)** for Global Electronics, a leading consumer electronics retailer, to uncover actionable insights that enhance customer satisfaction, optimize operations, and drive business growth. The analysis spans customer demographics, sales trends, product performance, and store operations.
 
@@ -13,7 +10,122 @@ This project conducts **Exploratory Data Analysis (EDA)** for Global Electronics
 - **Exploratory Data Analysis (EDA)**  
 - **Python Programming**  
 - **SQL Data Management**  
-- **Power BI Visualization**  
+- **Power BI Visualization** 
+
+
+A set of interactive dashboards and visual analyses for a global electronics dataset.  
+This repository contains exported dashboard images that showcase the following analyses:
+
+- **Product Analysis**
+- **Store Analysis**
+- **Sales Analysis**
+- **Customer Analysis**
+- **Main Dashboard / Executive Summary**
+
+---
+
+## Dashboards / Images
+
+### Main Dashboard
+**Filename:** `Main_Dashboard_DI.png`  
+![Main Dashboard](./Main_Dashboard_DI.png)
+
+This page gives a high-level business overview for leadership team:
+
+Insights shown:
+
+Total revenue, profit, orders, and growth trends
+
+Top-performing regions and product categories
+
+Quick comparison of store contributions
+
+Business Value:
+Helps executives track KPIs and make fast strategic decisions.
+
+---
+
+### Product Analysis
+**Filename:** `Product_Analysis_DI.png`  
+![Product Analysis](./Product_Analysis_DI.png)
+
+This focuses on identifying winning and underperforming products:
+
+Insights shown:
+
+Best-selling product categories
+
+Profit contribution by product line
+
+High-demand vs low-selling items
+
+Business Value:
+Guides decisions on product optimization, marketing focus, and inventory planning.
+
+---
+
+### Store Analysis
+**Filename:** `Store_Analysis_DI.png`  
+![Store Analysis](./Store_Analysis_DI.png)
+
+This page highlights store performance across locations:
+
+Insights shown:
+
+Revenue by region and by store type
+
+Footfall vs. sales correlation
+
+Top and bottom store ranking
+
+Business Value:
+Supports store expansion planning and resource allocation to improve underperforming locations.
+
+---
+
+### Sales Analysis
+**Filename:** `Sales_Analysis_DI.png`  
+![Sales Analysis](./Sales_Analysis_DI.png)
+
+Analytical breakdown of overall sales performance:
+
+Insights shown:
+
+Monthly and seasonal trends
+
+Order volume and revenue growth patterns
+
+Contribution of discounts and pricing
+
+Business Value:
+Helps forecast demand and shape pricing and promotional strategies.
+
+---
+
+### Customer Analysis
+**Filename:** `Customer_Analysis_DI.png`  
+![Customer Analysis](./Customer_Analysis_DI.png)
+Customer behavior and segmentation insights:
+
+Insights shown:
+
+Customer lifetime value segments
+
+New vs returning customers
+
+Purchase patterns by demographics
+
+Business Value:
+Strengthens CRM initiatives and targeted marketing campaigns.
+
+---
+
+## What this repo contains
+
+- High-quality dashboard exports (PNG files listed above) created from a Power BI / dashboarding workflow.
+- Each image highlights data-driven insights such as revenue trends, product performance, regional sales, customer segmentation, and top storefront metrics.
+
+ 
 
 ---
 
