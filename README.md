@@ -28,7 +28,8 @@ This repository contains exported dashboard images that showcase the following a
 
 ### Main Dashboard
 **Filename:** `Main_Dashboard_DI.png`  
-![Main Dashboard](./Main_Dashboard_DI.png)
+
+![Main Dashboard](./Screenshots/Main_Dashboard_DI.png)
 
 This page gives a high-level business overview for leadership team:
 
@@ -47,7 +48,7 @@ Helps executives track KPIs and make fast strategic decisions.
 
 ### Product Analysis
 **Filename:** `Product_Analysis_DI.png`  
-![Product Analysis](./Product_Analysis_DI.png)
+![Product Analysis](./Screenshots/Product_Analysis_DI.png)
 
 This focuses on identifying winning and underperforming products:
 
@@ -66,7 +67,8 @@ Guides decisions on product optimization, marketing focus, and inventory plannin
 
 ### Store Analysis
 **Filename:** `Store_Analysis_DI.png`  
-![Store Analysis](./Store_Analysis_DI.png)
+
+![Store Analysis](./Screenshots/Store_Analysis_DI.png)
 
 This page highlights store performance across locations:
 
@@ -85,7 +87,7 @@ Supports store expansion planning and resource allocation to improve underperfor
 
 ### Sales Analysis
 **Filename:** `Sales_Analysis_DI.png`  
-![Sales Analysis](./Sales_Analysis_DI.png)
+![Sales Analysis](./Screenshots/Sales_Analysis_DI.png)
 
 Analytical breakdown of overall sales performance:
 
@@ -104,7 +106,9 @@ Helps forecast demand and shape pricing and promotional strategies.
 
 ### Customer Analysis
 **Filename:** `Customer_Analysis_DI.png`  
-![Customer Analysis](./Customer_Analysis_DI.png)
+
+![Customer Analysis](./Screenshots/Customer_Analysis_DI.png)
+
 Customer behavior and segmentation insights:
 
 Insights shown:
