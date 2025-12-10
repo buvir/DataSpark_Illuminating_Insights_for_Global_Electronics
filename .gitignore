@@ -1,0 +1,50 @@
+# Ignore virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Environment / variables files
+.env
+.env.local
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Build and distribution folders
+build/
+dist/
+*.egg-info/
+
+# Pytest cache
+.pytest_cache/
+
+# mypy, coverage, and other tooling
+.mypy_cache/
+.coverage
+htmlcov/
+
+# # Power BI files (optional)
+# *.pbix
+
+# Notebook metadata files
+*.nbconvert/
